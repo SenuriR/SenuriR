@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SenuriR
 - 👀 I’m interested in software engineering, machine learning, and AI
-- 🌱 I’m currently learning CS112 -- Data Structures
+- 🌱 I’m currently learning CS211 - COMPUTER ARCHITECTURE
 - 📫 How to reach me: senuri.rupasinghe@rutgers.edu
 
 <!---
