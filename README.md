@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SenuriR
 - 👀 I’m interested in software engineering, machine learning, and AI
-- 🌱 I’m currently learning - Machine Learning Principles, Design and Analysis of Computer Algorithms
+- 🌱 I’m currently learning - Software Methodology, Principles of Programming Languages, Principles of Data and Information Management, and Introduction to Artificial Intelligence.
 - 📫 How to reach me: senuri.rupasinghe@rutgers.edu
 
 <!---
