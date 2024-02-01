@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SenuriR
 - 👀 I’m interested in software engineering, machine learning, and AI
-- 🌱 I’m currently learning - Software Methodology, Principles of Programming Languages, Principles of Data and Information Management, and Introduction to Artificial Intelligence.
+- 🌱 I’m currently learning - Software Methodology, Principles of Programming Languages, Introduction to Artificial Intelligence, and Regression Methods
 
 <!---
 SenuriR/SenuriR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
