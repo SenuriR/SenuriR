@@ -1,6 +1,6 @@
 The best way to learn is to build!
 - 👋 Hi, I’m @SenuriR
-- 👀 I’m interested in software engineering, machine learning, and AI
+- 👀 I’m interested in machine learning, artificial intelligence, quantum information science, and physics
 - 🌱 I’m currently learning - Software Methodology, Principles of Programming Languages, Introduction to Artificial Intelligence, and Regression Methods
 
 <!---
