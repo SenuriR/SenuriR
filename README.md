@@ -1,6 +1,6 @@
 The best way to learn is to build!
 - 👋 Hi, I’m @SenuriR
-- 👀 I’m interested in machine learning, artificial intelligence, quantum information science, and physics
+- 👀 I’m interested in quantum information science,  physics, machine learning, and artificial intelligence
 - 🌱 I’m currently building - a GUI using PyQt5 to be used for a quantum information research publication
 
 <!---
