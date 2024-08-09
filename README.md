@@ -1,7 +1,7 @@
 The best way to learn is to build!
 - 👋 Hi, I’m @SenuriR
-- 👀 I’m interested in quantum information science,  physics, machine learning, and artificial intelligence
-- 🌱 I’m currently building - a GUI using PyQt5 to be used for a quantum information research publication
+- 👀 I’m interested in quantum information science, physics, machine learning, and artificial intelligence
+- 🌱 I’m currently learning - I'm building mini projects to learn MySQL, React Native, and Node.js. I'm also building a GUI from PyQt5 for a quantum lab (more on that soon!).
 
 <!---
 SenuriR/SenuriR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
